@@ -36,7 +36,7 @@ export default Vue.extend({
 	name: 'ProductHeader',
 	data() {
 		return {
-			testCredits: 'Mantas L. TEST',
+			testCredits: 'Mantas L. TEST cache invalidation',
 		};
 	},
 	props: {
